@@ -6,7 +6,9 @@ public class RESTAPItest {
 
 	@Test
 	public void AppiumAutomation() {
-		System.out.println("AppiumAutomation");
+		System.out.println("AppiumAutomation1");
+		System.out.println("AppiumAutomation2");
+		System.out.println("AppiumAutomation3");
 	}
 	
 	@Test
