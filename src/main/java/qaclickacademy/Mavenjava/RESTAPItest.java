@@ -9,6 +9,9 @@ public class RESTAPItest {
 		System.out.println("AppiumAutomation1");
 		System.out.println("AppiumAutomation2");
 		System.out.println("AppiumAutomation3");
+		System.out.println("AppiumAutomation4");
+		System.out.println("AppiumAutomation5");
+		System.out.println("AppiumAutomation6");
 	}
 	
 	@Test
