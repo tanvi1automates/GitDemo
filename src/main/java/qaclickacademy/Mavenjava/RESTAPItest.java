@@ -19,7 +19,7 @@ public class RESTAPItest {
 		System.out.println("IOSApps");
 	}
 	@Test
-	public void IOSedfcdApps() {
-		System.out.println("IOSAppdcsfs");
+	public void Apps() {
+		System.out.println("APPIS");
 	}
 }
